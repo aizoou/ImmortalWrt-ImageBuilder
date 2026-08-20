@@ -56,6 +56,13 @@ PACKAGES="$PACKAGES luci-i18n-argon-config-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-package-manager-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-ttyd-zh-cn"
 PACKAGES="$PACKAGES openssh-sftp-server"
+#自己添加
+PACKAGES="$PACKAGES luci-i18n-filebrowser-zh-cn "
+PACKAGES="$PACKAGES luci-i18n-ttyd-zh-cn "
+PACKAGES="$PACKAGES luci-i18n-passwall-zh-cn "
+PACKAGES="$PACKAGES luci-app-openclash "
+PACKAGES="$PACKAGES luci-i18n-homeproxy-zh-cn "
+PACKAGES="$PACKAGES openssh-sftp-server"
 
 # 文件管理器
 PACKAGES="$PACKAGES luci-i18n-filemanager-zh-cn"
